@@ -5,3 +5,6 @@ This is a multi-list to-do list application. Made using `Vanilla JS`. Local Stor
 
 ### App preview
 ![Different-todo-app - Full - Generic Laptop - 2020-6-10 at 2 21 04 PM](https://user-images.githubusercontent.com/65386350/95180241-5760df80-07df-11eb-8376-90e38d0e2b42.jpg)
+
+#### live url
+Preview here: https://styledtodoapp.vercel.app/index1.html
